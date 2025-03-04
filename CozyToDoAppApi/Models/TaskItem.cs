@@ -10,6 +10,6 @@ namespace CozyToDoAppApi.Models
         public required string Description { get; set; }
         public bool IsCompleted { get; set; } 
         public DateTime CreatedAt { get; set; }
-        public DateTime UpdatedAt { get; set; }
+        public DateTime? UpdatedAt { get; set; }
     }
 }
