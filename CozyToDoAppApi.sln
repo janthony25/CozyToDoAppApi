@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CozyToDoAppApi", "CozyToDoAppApi\CozyToDoAppApi.csproj", "{009A3A3D-3304-4A87-9A4E-45AF76CB557B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009A3A3D-3304-4A87-9A4E-45AF76CB557B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009A3A3D-3304-4A87-9A4E-45AF76CB557B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009A3A3D-3304-4A87-9A4E-45AF76CB557B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009A3A3D-3304-4A87-9A4E-45AF76CB557B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CDBD376-3C14-4873-B562-E697182C1C4E}
+	EndGlobalSection
+EndGlobal
